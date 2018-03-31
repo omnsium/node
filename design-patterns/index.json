@@ -1,0 +1,49 @@
+{
+	"1. Introduction": [
+		"1. Welcome",
+		"2. What you should know",
+		"3. Using the exerise files"
+	],
+	"2. Overview": [
+		"1.  What are design patterns?",
+		"2. Gang of Four: Design patterns",
+		"3. Anti-patterns"
+	],
+	"3. Creational Patterns": [
+		"1. The singleton problem",
+		"2. The Singletons patterns",
+		"3. Singletons in Node",
+		"4. The Prototype pattern",
+		"5. The prototype clone method",
+		"6.The Factory pattern",
+		"7. The Builder pattern",
+		"8. implementing a builder"
+	],
+	"4. Structural Patterns": [
+		"1. The Adapter pattern",
+		"2. Implementing an adapter",
+		"3. The Proxy pattern",
+		"4. Implementing a proxy",
+		"5. Implementing composites",
+		"6. The Decorator pattern",
+		"7. Implementing decorators"
+	],
+	"5. Behavioral Patterns": [
+		"1. Chain of responsibility",
+		"2. Implementing the storage class",
+		"3. The Command pattern",
+		"4. Implementing commands",
+		"5. Improving the conductor",
+		"6. The Iterator pattern",
+		"7. Implementing iterators",
+		"8. The Observer pattern",
+		"9. Implementing observers",
+		"10. The Strategy pattern",
+		"11. Implementing strategies"
+	],
+	"6. Conclusion": [
+		"1. Next steps"
+	]
+	
+
+}
